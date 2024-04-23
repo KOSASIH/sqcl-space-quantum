@@ -1,2 +1,2 @@
-# Space-based-Quantum-Computing-Lab-SQCL-
-A research lab for developing and testing quantum computing technologies in space, utilizing the unique environment and resources of space to push the boundaries of quantum computing research. 
+# sqcl-space-quantum
+A Git repo for the Space-based Quantum Computing Lab project, containing code for developing and testing quantum computing technologies in space.
